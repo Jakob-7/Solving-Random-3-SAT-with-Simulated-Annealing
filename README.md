@@ -1,4 +1,4 @@
-# Solving Random k-SAT with Simulated Annealing
+# Solving Random 3-SAT with Simulated Annealing
 
 This repository contains a computer programming project focused on solving **random k-SAT instances** using **Simulated Annealing**, and on empirically studying the **algorithmic phase transition** of the 3-SAT problem.
 
